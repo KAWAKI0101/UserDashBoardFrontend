@@ -1,0 +1,15 @@
+D:/New folder (2)/Frontend/UserModul/android/app/.cxx/Debug/nu3w5612/armeabi-v7a/CMakeFiles/appmodules.dir
+D:/New folder (2)/Frontend/UserModul/android/app/.cxx/Debug/nu3w5612/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/New folder (2)/Frontend/UserModul/android/app/.cxx/Debug/nu3w5612/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+D:/New folder (2)/Frontend/UserModul/android/app/.cxx/Debug/nu3w5612/armeabi-v7a/rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir
+D:/New folder (2)/Frontend/UserModul/android/app/.cxx/Debug/nu3w5612/armeabi-v7a/rngesturehandler_codegen_autolinked_build/CMakeFiles/edit_cache.dir
+D:/New folder (2)/Frontend/UserModul/android/app/.cxx/Debug/nu3w5612/armeabi-v7a/rngesturehandler_codegen_autolinked_build/CMakeFiles/rebuild_cache.dir
+D:/New folder (2)/Frontend/UserModul/android/app/.cxx/Debug/nu3w5612/armeabi-v7a/rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir
+D:/New folder (2)/Frontend/UserModul/android/app/.cxx/Debug/nu3w5612/armeabi-v7a/rnreanimated_autolinked_build/CMakeFiles/edit_cache.dir
+D:/New folder (2)/Frontend/UserModul/android/app/.cxx/Debug/nu3w5612/armeabi-v7a/rnreanimated_autolinked_build/CMakeFiles/rebuild_cache.dir
+D:/New folder (2)/Frontend/UserModul/android/app/.cxx/Debug/nu3w5612/armeabi-v7a/safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir
+D:/New folder (2)/Frontend/UserModul/android/app/.cxx/Debug/nu3w5612/armeabi-v7a/safeareacontext_autolinked_build/CMakeFiles/edit_cache.dir
+D:/New folder (2)/Frontend/UserModul/android/app/.cxx/Debug/nu3w5612/armeabi-v7a/safeareacontext_autolinked_build/CMakeFiles/rebuild_cache.dir
+D:/New folder (2)/Frontend/UserModul/android/app/.cxx/Debug/nu3w5612/armeabi-v7a/rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir
+D:/New folder (2)/Frontend/UserModul/android/app/.cxx/Debug/nu3w5612/armeabi-v7a/rnscreens_autolinked_build/CMakeFiles/edit_cache.dir
+D:/New folder (2)/Frontend/UserModul/android/app/.cxx/Debug/nu3w5612/armeabi-v7a/rnscreens_autolinked_build/CMakeFiles/rebuild_cache.dir

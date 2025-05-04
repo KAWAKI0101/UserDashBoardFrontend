@@ -1,0 +1,62 @@
+# ninja log v5
+1	65	0	D:/New folder (2)/Frontend/UserModul/android/app/.cxx/Debug/nu3w5612/arm64-v8a/CMakeFiles/cmake.verify_globs	21a6e7ecbdb2c3c5
+255	22861	7669183305423822	rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/rngesturehandler_codegen-generated.cpp.o	c337784b5ed4848f
+89	62937	7669183704042514	CMakeFiles/appmodules.dir/D_/New_folder_(2)/Frontend/UserModul/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	ec31c07dc5b04970
+48308	61031	7669183687028036	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/4de960874df05c81b10e44da038b8da0/source/codegen/jni/safeareacontext-generated.cpp.o	6c1e5a08af72aaf7
+127	25122	7669183327594549	CMakeFiles/appmodules.dir/OnLoad.cpp.o	ffecc67bc311147f
+14501	15289	7677232486903913	D:/New folder (2)/Frontend/UserModul/android/app/build/intermediates/cxx/Debug/nu3w5612/obj/arm64-v8a/libappmodules.so	f4ad10e1bcd3c70f
+231	20671	7669183283681926	rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/States.cpp.o	711dc96c16ca22d0
+222	21342	7669183290364066	rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/EventEmitters.cpp.o	f0b330889de7e7d9
+247	24678	7669183323904412	rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/ShadowNodes.cpp.o	160b81223d0f6187
+21399	42855	7669183505004597	rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/react/renderer/components/rnreanimated/Props.cpp.o	a98cc57501831403
+42879	61959	7669183696323282	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/ff62107f871a560061e7180e92f6971e/jni/react/renderer/components/safeareacontext/Props.cpp.o	3d96dbc3785e39a3
+61	14500	0	rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/rngesturehandler_codegenJSI-generated.cpp.o	3cac6da39761f08d
+240	29432	7669183370479923	rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/Props.cpp.o	bcbccc073d3f2532
+145	31245	7669183372494535	rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/bac033cd950586cef66695376748dd33/ComponentDescriptors.cpp.o	be2ed611c727d580
+22844	45708	7669183533667958	rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/react/renderer/components/rnreanimated/ShadowNodes.cpp.o	5ee50f70661b1bbe
+20673	40924	7669183486025349	rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/react/renderer/components/rnreanimated/EventEmitters.cpp.o	caf48350cbfb51c4
+275	25751	7669183334226814	rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/react/renderer/components/rnreanimated/ComponentDescriptors.cpp.o	27a676c450723b4
+75610	84043	7669183917442067	rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/fa63ff701bc8301edb0af2a30b108862/source/codegen/jni/react/renderer/components/rnscreens/States.cpp.o	157d8f0a21c714e0
+25123	44254	7669183520054396	rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/react/renderer/components/rnreanimated/States.cpp.o	6f7a2f8fa01c3f2a
+22863	45862	7669183535652669	rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/react/renderer/components/rnreanimated/rnreanimatedJSI-generated.cpp.o	994d7ad0a8206426
+60045	79957	7669183876671117	rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/a4d891e161f60e1cdcb0a8560c47fd3a/renderer/components/rnscreens/RNSScreenStackHeaderConfigState.cpp.o	655f4ff644cb6ba
+24679	48307	7669183560127233	rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/rnreanimated-generated.cpp.o	34aa6cd3587cbe48
+95041	95273	7669184029967030	D:/New folder (2)/Frontend/UserModul/android/app/build/intermediates/cxx/Debug/nu3w5612/obj/arm64-v8a/libreact_codegen_rnscreens.so	4eedc0cd82b5ae1
+25752	53317	7669183609575075	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/67714a184f734df62aaba7795258a591/components/safeareacontext/ComponentDescriptors.cpp.o	d3213afdc9278aaf
+33199	57521	7669183651971749	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/b93e209490d851f6b2111aa5553253d5/components/safeareacontext/RNCSafeAreaViewState.cpp.o	e81a53bf1f15ae61
+40926	54507	7669183622161416	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/bf27fe5199c4db151abafadec94a4d33/renderer/components/safeareacontext/EventEmitters.cpp.o	77646a7d697a3fc2
+45709	55174	7669183628314969	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/ff62107f871a560061e7180e92f6971e/jni/react/renderer/components/safeareacontext/States.cpp.o	245c171c36ec4bdc
+29434	62361	7669183700242673	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/b93e209490d851f6b2111aa5553253d5/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o	4363afa2e3b2dac7
+44255	64143	7669183718094949	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/bf27fe5199c4db151abafadec94a4d33/renderer/components/safeareacontext/ShadowNodes.cpp.o	90264febb9085a00
+77722	95040	7669184027435493	rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/a09ceae1202bf467dc62aae24df1850f/jni/react/renderer/components/rnscreens/ComponentDescriptors.cpp.o	3a6025545dd2f2a0
+45863	60043	7669183677344014	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/1e6b2421836c602be62d007d5b5fd638/safeareacontext/safeareacontextJSI-generated.cpp.o	55bdf3c48b76b66
+64297	74571	7669183820670755	D:/New folder (2)/Frontend/UserModul/android/app/build/intermediates/cxx/Debug/nu3w5612/obj/arm64-v8a/libreact_codegen_safeareacontext.so	4bbaf7ed293abd71
+53356	76220	7669183839161311	rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/a4d891e161f60e1cdcb0a8560c47fd3a/renderer/components/rnscreens/RNSFullWindowOverlayShadowNode.cpp.o	2b2ef4aaf8bf03ce
+55206	75608	7669183832977834	rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/a4d891e161f60e1cdcb0a8560c47fd3a/renderer/components/rnscreens/RNSScreenStackHeaderSubviewState.cpp.o	7345fbf77be7b122
+80604	90363	7669183980795685	rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/a09ceae1202bf467dc62aae24df1850f/jni/react/renderer/components/rnscreens/rnscreensJSI-generated.cpp.o	cfd6bd393925c1c0
+62362	81920	7669183895989403	rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/c2d0ee710025fe3e685abff581d7ad44/common/cpp/react/renderer/components/rnscreens/RNSScreenState.cpp.o	1f1f5a9d787ab67a
+57573	80394	7669183880261455	rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/5b0f75ae67ebff5be5a9422f22c08ae7/cpp/react/renderer/components/rnscreens/RNSModalScreenShadowNode.cpp.o	656ae4b95a3214c6
+61961	84788	7669183924872187	rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/5b0f75ae67ebff5be5a9422f22c08ae7/cpp/react/renderer/components/rnscreens/RNSScreenShadowNode.cpp.o	2a2517d3d86f10
+61032	84173	7669183918599042	rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/983fa89448493af95017b12faa0ec602/components/rnscreens/RNSScreenStackHeaderSubviewShadowNode.cpp.o	b7456e2e2d8798cb
+54557	77583	7669183852545547	rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/983fa89448493af95017b12faa0ec602/components/rnscreens/RNSScreenStackHeaderConfigShadowNode.cpp.o	94c567ce117b9a85
+74572	91797	7669183995017134	rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/150f500049b0cc482a9b8b66f0dacd03/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp.o	cb233e97dd68ed
+62938	84130	7669183918489316	rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/150f500049b0cc482a9b8b66f0dacd03/codegen/jni/react/renderer/components/rnscreens/ShadowNodes.cpp.o	b37fbc7197495166
+76221	90337	7669183980745791	rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/rnscreens.cpp.o	d789ca5c2f1591b7
+79958	92754	7669184004823113	rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/fa63ff701bc8301edb0af2a30b108862/source/codegen/jni/react/renderer/components/rnscreens/Props.cpp.o	c5c987778aacf594
+0	37	0	clean	1ac6873af73b6a97
+1	61	0	D:/New folder (2)/Frontend/UserModul/android/app/.cxx/Debug/nu3w5612/arm64-v8a/CMakeFiles/cmake.verify_globs	21a6e7ecbdb2c3c5
+78	16221	0	rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/rngesturehandler_codegenJSI-generated.cpp.o	3cac6da39761f08d
+16221	17084	7678234677046643	D:/New folder (2)/Frontend/UserModul/android/app/build/intermediates/cxx/Debug/nu3w5612/obj/arm64-v8a/libappmodules.so	f4ad10e1bcd3c70f
+1	48	0	D:/New folder (2)/Frontend/UserModul/android/app/.cxx/Debug/nu3w5612/arm64-v8a/CMakeFiles/cmake.verify_globs	21a6e7ecbdb2c3c5
+91	4758	0	rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/rngesturehandler_codegenJSI-generated.cpp.o	3cac6da39761f08d
+4759	5145	7678237192691525	D:/New folder (2)/Frontend/UserModul/android/app/build/intermediates/cxx/Debug/nu3w5612/obj/arm64-v8a/libappmodules.so	f4ad10e1bcd3c70f
+1	59	0	D:/New folder (2)/Frontend/UserModul/android/app/.cxx/Debug/nu3w5612/arm64-v8a/CMakeFiles/cmake.verify_globs	21a6e7ecbdb2c3c5
+1	51	0	D:/New folder (2)/Frontend/UserModul/android/app/.cxx/Debug/nu3w5612/arm64-v8a/CMakeFiles/cmake.verify_globs	21a6e7ecbdb2c3c5
+37	4825	0	rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/rngesturehandler_codegenJSI-generated.cpp.o	3cac6da39761f08d
+4825	5356	7678239679764907	D:/New folder (2)/Frontend/UserModul/android/app/build/intermediates/cxx/Debug/nu3w5612/obj/arm64-v8a/libappmodules.so	f4ad10e1bcd3c70f
+2	51	0	D:/New folder (2)/Frontend/UserModul/android/app/.cxx/Debug/nu3w5612/arm64-v8a/CMakeFiles/cmake.verify_globs	21a6e7ecbdb2c3c5
+34	4619	0	rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/rngesturehandler_codegenJSI-generated.cpp.o	3cac6da39761f08d
+4619	5033	7678241459791728	D:/New folder (2)/Frontend/UserModul/android/app/build/intermediates/cxx/Debug/nu3w5612/obj/arm64-v8a/libappmodules.so	f4ad10e1bcd3c70f
+1	57	0	D:/New folder (2)/Frontend/UserModul/android/app/.cxx/Debug/nu3w5612/arm64-v8a/CMakeFiles/cmake.verify_globs	21a6e7ecbdb2c3c5
+32	5098	0	rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/rngesturehandler_codegenJSI-generated.cpp.o	3cac6da39761f08d
+5098	5583	7678243453998053	D:/New folder (2)/Frontend/UserModul/android/app/build/intermediates/cxx/Debug/nu3w5612/obj/arm64-v8a/libappmodules.so	f4ad10e1bcd3c70f
