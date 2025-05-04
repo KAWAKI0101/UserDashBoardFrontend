@@ -41,7 +41,7 @@
     "react-test-renderer": "19.0.0",
     "typescript": "5.0.4"
   },
-  "engines": {
-    "node": ">=18"
-  }
+ "engines": {
+  "node": "16.x"
+}
 }
