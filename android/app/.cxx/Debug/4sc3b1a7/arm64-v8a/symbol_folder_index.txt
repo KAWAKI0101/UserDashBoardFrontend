@@ -1,0 +1,1 @@
+D:\UserModule\Frontend\android\app\build\intermediates\cxx\Debug\4sc3b1a7\obj\arm64-v8a

@@ -1,20 +1,45 @@
 {
-  "root": "D:\\New folder (2)\\Frontend\\UserModul",
-  "reactNativePath": "D:\\New folder (2)\\Frontend\\UserModul\\node_modules\\react-native",
+  "root": "D:\\UserModule\\Frontend",
+  "reactNativePath": "D:\\UserModule\\Frontend\\node_modules\\react-native",
   "reactNativeVersion": "0.79",
   "dependencies": {
+    "@react-native-async-storage/async-storage": {
+      "root": "D:\\UserModule\\Frontend\\node_modules\\@react-native-async-storage\\async-storage",
+      "name": "@react-native-async-storage/async-storage",
+      "platforms": {
+        "ios": {
+          "podspecPath": "D:\\UserModule\\Frontend\\node_modules\\@react-native-async-storage\\async-storage\\RNCAsyncStorage.podspec",
+          "version": "2.1.2",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "D:\\UserModule\\Frontend\\node_modules\\@react-native-async-storage\\async-storage\\android",
+          "packageImportPath": "import com.reactnativecommunity.asyncstorage.AsyncStoragePackage;",
+          "packageInstance": "new AsyncStoragePackage()",
+          "buildTypes": [],
+          "libraryName": "rnasyncstorage",
+          "componentDescriptors": [],
+          "cmakeListsPath": "D:/UserModule/Frontend/node_modules/@react-native-async-storage/async-storage/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
     "react-native-gesture-handler": {
-      "root": "D:\\New folder (2)\\Frontend\\UserModul\\node_modules\\react-native-gesture-handler",
+      "root": "D:\\UserModule\\Frontend\\node_modules\\react-native-gesture-handler",
       "name": "react-native-gesture-handler",
       "platforms": {
         "ios": {
-          "podspecPath": "D:\\New folder (2)\\Frontend\\UserModul\\node_modules\\react-native-gesture-handler\\RNGestureHandler.podspec",
+          "podspecPath": "D:\\UserModule\\Frontend\\node_modules\\react-native-gesture-handler\\RNGestureHandler.podspec",
           "version": "2.25.0",
           "configurations": [],
           "scriptPhases": []
         },
         "android": {
-          "sourceDir": "D:\\New folder (2)\\Frontend\\UserModul\\node_modules\\react-native-gesture-handler\\android",
+          "sourceDir": "D:\\UserModule\\Frontend\\node_modules\\react-native-gesture-handler\\android",
           "packageImportPath": "import com.swmansion.gesturehandler.RNGestureHandlerPackage;",
           "packageInstance": "new RNGestureHandlerPackage()",
           "buildTypes": [],
@@ -23,7 +48,7 @@
             "RNGestureHandlerButtonComponentDescriptor",
             "RNGestureHandlerRootViewComponentDescriptor"
           ],
-          "cmakeListsPath": "D:/New folder (2)/Frontend/UserModul/node_modules/react-native-gesture-handler/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cmakeListsPath": "D:/UserModule/Frontend/node_modules/react-native-gesture-handler/android/build/generated/source/codegen/jni/CMakeLists.txt",
           "cxxModuleCMakeListsModuleName": null,
           "cxxModuleCMakeListsPath": null,
           "cxxModuleHeaderName": null,
@@ -32,23 +57,23 @@
       }
     },
     "react-native-reanimated": {
-      "root": "D:\\New folder (2)\\Frontend\\UserModul\\node_modules\\react-native-reanimated",
+      "root": "D:\\UserModule\\Frontend\\node_modules\\react-native-reanimated",
       "name": "react-native-reanimated",
       "platforms": {
         "ios": {
-          "podspecPath": "D:\\New folder (2)\\Frontend\\UserModul\\node_modules\\react-native-reanimated\\RNReanimated.podspec",
+          "podspecPath": "D:\\UserModule\\Frontend\\node_modules\\react-native-reanimated\\RNReanimated.podspec",
           "version": "3.17.4",
           "configurations": [],
           "scriptPhases": []
         },
         "android": {
-          "sourceDir": "D:\\New folder (2)\\Frontend\\UserModul\\node_modules\\react-native-reanimated\\android",
+          "sourceDir": "D:\\UserModule\\Frontend\\node_modules\\react-native-reanimated\\android",
           "packageImportPath": "import com.swmansion.reanimated.ReanimatedPackage;",
           "packageInstance": "new ReanimatedPackage()",
           "buildTypes": [],
           "libraryName": "rnreanimated",
           "componentDescriptors": [],
-          "cmakeListsPath": "D:/New folder (2)/Frontend/UserModul/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cmakeListsPath": "D:/UserModule/Frontend/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/CMakeLists.txt",
           "cxxModuleCMakeListsModuleName": null,
           "cxxModuleCMakeListsPath": null,
           "cxxModuleHeaderName": null,
@@ -57,17 +82,17 @@
       }
     },
     "react-native-safe-area-context": {
-      "root": "D:\\New folder (2)\\Frontend\\UserModul\\node_modules\\react-native-safe-area-context",
+      "root": "D:\\UserModule\\Frontend\\node_modules\\react-native-safe-area-context",
       "name": "react-native-safe-area-context",
       "platforms": {
         "ios": {
-          "podspecPath": "D:\\New folder (2)\\Frontend\\UserModul\\node_modules\\react-native-safe-area-context\\react-native-safe-area-context.podspec",
+          "podspecPath": "D:\\UserModule\\Frontend\\node_modules\\react-native-safe-area-context\\react-native-safe-area-context.podspec",
           "version": "5.4.0",
           "configurations": [],
           "scriptPhases": []
         },
         "android": {
-          "sourceDir": "D:\\New folder (2)\\Frontend\\UserModul\\node_modules\\react-native-safe-area-context\\android",
+          "sourceDir": "D:\\UserModule\\Frontend\\node_modules\\react-native-safe-area-context\\android",
           "packageImportPath": "import com.th3rdwave.safeareacontext.SafeAreaContextPackage;",
           "packageInstance": "new SafeAreaContextPackage()",
           "buildTypes": [],
@@ -76,7 +101,7 @@
             "RNCSafeAreaProviderComponentDescriptor",
             "RNCSafeAreaViewComponentDescriptor"
           ],
-          "cmakeListsPath": "D:/New folder (2)/Frontend/UserModul/node_modules/react-native-safe-area-context/android/src/main/jni/CMakeLists.txt",
+          "cmakeListsPath": "D:/UserModule/Frontend/node_modules/react-native-safe-area-context/android/src/main/jni/CMakeLists.txt",
           "cxxModuleCMakeListsModuleName": null,
           "cxxModuleCMakeListsPath": null,
           "cxxModuleHeaderName": null,
@@ -85,17 +110,17 @@
       }
     },
     "react-native-screens": {
-      "root": "D:\\New folder (2)\\Frontend\\UserModul\\node_modules\\react-native-screens",
+      "root": "D:\\UserModule\\Frontend\\node_modules\\react-native-screens",
       "name": "react-native-screens",
       "platforms": {
         "ios": {
-          "podspecPath": "D:\\New folder (2)\\Frontend\\UserModul\\node_modules\\react-native-screens\\RNScreens.podspec",
+          "podspecPath": "D:\\UserModule\\Frontend\\node_modules\\react-native-screens\\RNScreens.podspec",
           "version": "4.10.0",
           "configurations": [],
           "scriptPhases": []
         },
         "android": {
-          "sourceDir": "D:\\New folder (2)\\Frontend\\UserModul\\node_modules\\react-native-screens\\android",
+          "sourceDir": "D:\\UserModule\\Frontend\\node_modules\\react-native-screens\\android",
           "packageImportPath": "import com.swmansion.rnscreens.RNScreensPackage;",
           "packageInstance": "new RNScreensPackage()",
           "buildTypes": [],
@@ -113,7 +138,7 @@
             "RNSScreenContentWrapperComponentDescriptor",
             "RNSModalScreenComponentDescriptor"
           ],
-          "cmakeListsPath": "D:/New folder (2)/Frontend/UserModul/node_modules/react-native-screens/android/src/main/jni/CMakeLists.txt",
+          "cmakeListsPath": "D:/UserModule/Frontend/node_modules/react-native-screens/android/src/main/jni/CMakeLists.txt",
           "cxxModuleCMakeListsModuleName": null,
           "cxxModuleCMakeListsPath": null,
           "cxxModuleHeaderName": null,
@@ -284,7 +309,7 @@
         {
           "name": "--path <path>",
           "description": "Path to the React Native project root.",
-          "default": "D:\\New folder (2)\\Frontend\\UserModul"
+          "default": "D:\\UserModule\\Frontend"
         },
         {
           "name": "--platform <string>",
@@ -576,7 +601,7 @@
   "assets": [],
   "project": {
     "ios": {
-      "sourceDir": "D:\\New folder (2)\\Frontend\\UserModul\\ios",
+      "sourceDir": "D:\\UserModule\\Frontend\\ios",
       "xcodeProject": {
         "name": "UserModul.xcodeproj",
         "path": ".",
@@ -585,7 +610,7 @@
       "assets": []
     },
     "android": {
-      "sourceDir": "D:\\New folder (2)\\Frontend\\UserModul\\android",
+      "sourceDir": "D:\\UserModule\\Frontend\\android",
       "appName": "app",
       "packageName": "com.usermodul",
       "applicationId": "com.usermodul",
